@@ -7,7 +7,7 @@ Este projeto implementa um sistema de cadastro acadêmico, permitindo a gestão 
 
 -Estudante (classe filha de Cadastro)
 
--Professora (turma filha de Cadastro)
+-Professor (classe filha de Cadastro)
 
 -Disciplina
 
