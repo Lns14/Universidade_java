@@ -83,6 +83,7 @@ Método adicionaOfer
 Associar um aluno a um oferecimento ou adicionar um oferecimento a uma disciplina.
 
 Método email
+
 Retorne o e-mail de um estudante a partir de um RA fornecido.
 
 
